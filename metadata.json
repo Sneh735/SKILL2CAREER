@@ -1,0 +1,6 @@
+{
+  "name": "SKILL2CAREER",
+  "description": "AI-powered career and recruitment platform founded by Sneha Singh for undergraduate students in CSE, AIDS, IT, EC, and Data Science. Learn. Practice. Get Hired.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
